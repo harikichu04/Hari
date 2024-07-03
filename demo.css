@@ -1,0 +1,33 @@
+img{
+    width: 1500px;
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+
+h1{
+    
+    color: rgb(5, 24, 4);
+    margin-left: 500px;
+    padding:50px;
+    font-size:50px;
+}
+h2{
+    color: rgb(5, 24, 4);
+    
+    font-size:25px;
+    
+}
+p{
+    color: black;
+    font-size: 20px;
+
+}
+button{
+    background-color: aqua;
+    margin: auto;
+    padding: 0%;
+    size: 500px;
+}
